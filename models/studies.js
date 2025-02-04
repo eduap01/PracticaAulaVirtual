@@ -41,3 +41,4 @@ StudySchema.methods.findById= async function (id) {
 
 module.exports = mongoose.model('studies', StudySchema);
 //ayuda por favor
+//eduardo sueltame del brazo cabron
