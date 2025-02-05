@@ -71,3 +71,4 @@ SubjectSchema.statics.findSearch = async function (searchTerm) {
 
 const Subject = mongoose.model('Subject', subjectSchema);
 module.exports = Subject;
+//a
