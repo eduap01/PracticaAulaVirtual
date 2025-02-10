@@ -77,6 +77,5 @@ userSchema.statics.findBySubjectName = async function (subjectName) {
 const User = mongoose.model('user', userSchema);
 
 module.exports = User;
-//nota
 
 
