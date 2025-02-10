@@ -12,6 +12,13 @@ const StudySchema = Schema({
 	}
 });
 
+StudySchema.methods.findAll = async function (){
+    const Study = mongoose.model("studies", StudySchema);
+    return await Study.find({})
+    .then(result => {return result})
+    .catch(error => console.log(error));
+    }
+
 StudySchema.methods.insert= async function (){
 	await this.save()
 	.then (result => console.log(result))

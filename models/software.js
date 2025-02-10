@@ -17,7 +17,7 @@ const SoftwareSchema=Schema({
     ]
 });
 
-SoftwareSchema.methods.findAll=async function (asignatura){
+SoftwareSchema.methods.findAll=async function (subject){
     const Software =mongoose.model("software", SoftwareSchema);
     return await Software.find({'subject':subject})
     .then(result => {return result})
