@@ -69,5 +69,5 @@ SubjectSchema.statics.findSearch = async function (searchTerm) {
         .catch(error => console.log(error));
 };
 
-const Subject = mongoose.model('Subject', subjectSchema);
+const Subject = mongoose.model('Subject', SubjectSchema);
 module.exports = Subject;

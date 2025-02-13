@@ -1,6 +1,6 @@
 const express = require('express');
 const router = express.Router();
-const Study = require('../models/studies')
+const Study = require('../models/study')
 
 router.get('/studies', isAuthenticated, async(req, res) =>{
     const study = new Study();
