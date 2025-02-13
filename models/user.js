@@ -9,7 +9,11 @@ const userSchema = new Schema({
   rol: { type: String, required: true },
   name: { type: String, required: true },
   surname: { type: String, required: true },
+<<<<<<< HEAD
+  subjects: [{ type: Schema.Types.ObjectId, ref: 'User', required: true }]
+=======
   subjects: [{ type: Schema.Types.ObjectId, ref: 'User', required: true }],
+>>>>>>> cdc7bea7407765989c7f5bdfeedf5a97c34ddce9
 });
 
 userSchema.methods.encryptPassword = (password) => {
