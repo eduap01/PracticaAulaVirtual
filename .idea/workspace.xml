@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e9153e2e-6815-4dc0-a0a0-497f3e175aff" name="Changes" comment="ahora el npm tira" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="MAIN" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Salsamante&quot;
+  }
+}</component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="jesus" />
+                    <option name="lastUsedInstant" value="1739471838" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="jesusNuevo" />
+                    <option name="lastUsedInstant" value="1739471793" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="develop" />
+                    <option name="lastUsedInstant" value="1739469290" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="jesus02" />
+                    <option name="lastUsedInstant" value="1739468376" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="eduardo" />
+                    <option name="lastUsedInstant" value="1739291200" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:eduap01/PracticaAulaVirtual.git&quot;,
+    &quot;accountId&quot;: &quot;809ba4e6-fd18-499c-ba7a-13120c451510&quot;
+  },
+  &quot;recentNewPullRequestHead&quot;: {
+    &quot;server&quot;: {
+      &quot;useHttp&quot;: false,
+      &quot;host&quot;: &quot;github.com&quot;,
+      &quot;port&quot;: null,
+      &quot;suffix&quot;: null
+    },
+    &quot;owner&quot;: &quot;eduap01&quot;,
+    &quot;repository&quot;: &quot;PracticaAulaVirtual&quot;
+  },
+  &quot;editorReviewEnabled&quot;: false
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2saa9z40uxUdsRAwjFqnBk7vh5N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Tarde/IdeaProjects/PracticaAulaVirtual/node_modules",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Tarde\IdeaProjects\PracticaAulaVirtual\node_modules" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Tarde\IdeaProjects\PracticaAulaVirtual" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9153e2e-6815-4dc0-a0a0-497f3e175aff" name="Changes" comment="" />
+      <created>1738695991162</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738695991162</updated>
+    </task>
+    <task id="LOCAL-00001" summary="añadido el modelo de software ;)">
+      <option name="closed" value="true" />
+      <created>1738696868770</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738696868770</updated>
+    </task>
+    <task id="LOCAL-00002" summary="añadido el modelo de software 2 ;)">
+      <option name="closed" value="true" />
+      <created>1738697313905</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1738697313905</updated>
+    </task>
+    <task id="LOCAL-00003" summary="añadido el router de software">
+      <option name="closed" value="true" />
+      <created>1739199512639</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739199512639</updated>
+    </task>
+    <task id="LOCAL-00004" summary="añado vcs.xml porque si no no me deja hacer un checkout">
+      <option name="closed" value="true" />
+      <created>1739200266572</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1739200266572</updated>
+    </task>
+    <task id="LOCAL-00005" summary="añadido database.js y keys.js (que sirve para conectarse a la base de mongo)">
+      <option name="closed" value="true" />
+      <created>1739201680271</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1739201680271</updated>
+    </task>
+    <task id="LOCAL-00006" summary="añadido database.js y keys.js (que sirve para conectarse a la base de mongo)(otra vez)">
+      <option name="closed" value="true" />
+      <created>1739201794702</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1739201794702</updated>
+    </task>
+    <task id="LOCAL-00007" summary="meto app.js en la carpeta raiz">
+      <option name="closed" value="true" />
+      <created>1739203710633</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1739203710633</updated>
+    </task>
+    <task id="LOCAL-00008" summary="meto app.js en la carpeta raiz">
+      <option name="closed" value="true" />
+      <created>1739203763130</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1739203763130</updated>
+    </task>
+    <task id="LOCAL-00009" summary="añadido footer.ejs en views/partials">
+      <option name="closed" value="true" />
+      <created>1739204986189</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1739204986189</updated>
+    </task>
+    <task id="LOCAL-00010" summary="añadido softwares.ejs en views">
+      <option name="closed" value="true" />
+      <created>1739205849726</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1739205849726</updated>
+    </task>
+    <task id="LOCAL-00011" summary="añadido softwares.ejs en views">
+      <option name="closed" value="true" />
+      <created>1739205990112</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1739205990112</updated>
+    </task>
+    <task id="LOCAL-00012" summary="actualizado package.json con los módulos que tiene mario instalados">
+      <option name="closed" value="true" />
+      <created>1739291895666</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1739291895666</updated>
+    </task>
+    <task id="LOCAL-00013" summary="añadidos un huevo de modules">
+      <option name="closed" value="true" />
+      <created>1739293229359</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1739293229359</updated>
+    </task>
+    <task id="LOCAL-00014" summary="ahora el npm tira">
+      <option name="closed" value="true" />
+      <created>1739469106846</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1739469106846</updated>
+    </task>
+    <task id="LOCAL-00015" summary="ahora el npm tira">
+      <option name="closed" value="true" />
+      <created>1739469179196</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1739469179196</updated>
+    </task>
+    <task id="LOCAL-00016" summary="ahora el npm tira">
+      <option name="closed" value="true" />
+      <created>1739470072379</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1739470072379</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="añadido el modelo de software ;)" />
+    <MESSAGE value="añadido el modelo de software 2 ;)" />
+    <MESSAGE value="añadido el router de software" />
+    <MESSAGE value="añado vcs.xml porque si no no me deja hacer un checkout" />
+    <MESSAGE value="añadido database.js y keys.js (que sirve para conectarse a la base de mongo)" />
+    <MESSAGE value="añadido database.js y keys.js (que sirve para conectarse a la base de mongo)(otra vez)" />
+    <MESSAGE value="meto app.js en la carpeta raiz" />
+    <MESSAGE value="añadido footer.ejs en views/partials" />
+    <MESSAGE value="añadido softwares.ejs en views" />
+    <MESSAGE value="actualizado package.json con los módulos que tiene mario instalados" />
+    <MESSAGE value="añadidos un huevo de modules" />
+    <MESSAGE value="ahora el npm tira" />
+    <option name="LAST_COMMIT_MESSAGE" value="ahora el npm tira" />
+  </component>
+</project>
