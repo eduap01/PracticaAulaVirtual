@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9153e2e-6815-4dc0-a0a0-497f3e175aff" name="Changes" comment="ahora el npm tira" />
+    <list default="true" id="e9153e2e-6815-4dc0-a0a0-497f3e175aff" name="Changes" comment="intento de arreglar el .idea" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,9 +93,10 @@
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "git-widget-placeholder": "develop",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Tarde/IdeaProjects/PracticaAulaVirtual/node_modules",
+    "last_opened_file_path": "C:/Users/Eduardo/Desktop/PracticaAulaVirtual",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -247,7 +248,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739470072379</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="intento de arreglar el .idea">
+      <option name="closed" value="true" />
+      <created>1739483422841</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1739483422841</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -274,6 +283,7 @@
     <MESSAGE value="actualizado package.json con los módulos que tiene mario instalados" />
     <MESSAGE value="añadidos un huevo de modules" />
     <MESSAGE value="ahora el npm tira" />
-    <option name="LAST_COMMIT_MESSAGE" value="ahora el npm tira" />
+    <MESSAGE value="intento de arreglar el .idea" />
+    <option name="LAST_COMMIT_MESSAGE" value="intento de arreglar el .idea" />
   </component>
 </project>
