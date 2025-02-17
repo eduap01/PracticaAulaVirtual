@@ -5,7 +5,7 @@ const Study = require('../models/study')
 router.get('/studies', isAuthenticated, async(req, res) =>{
     const study = new Study();
     const studies = await study.findAll(req.user._id);
-    res.render('studies', {
+    res.render('studies', {studies : studies
     });
 });
 

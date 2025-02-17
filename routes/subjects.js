@@ -7,7 +7,7 @@ const Subject=require('../models/subject');
 router.get('/subject', isAuthenticated, async(req, res) => {
     const subject=new Subject();
     const subjects=await subject.findAll(req.subject._id);
-    res.render('software', {
+    res.render('subjects', {
         subjects
     });
 });

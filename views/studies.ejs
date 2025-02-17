@@ -43,8 +43,8 @@
           <% for(var i=0; i < studies.length; i++) { %>
             <tr>
               <td><%= i + 1%></td>
-              <td><strong><%= studies[i].description %></strong></td>
-              <td><%= studies[i].link %></td>
+              <td><strong><%= studies[i].name %></strong></td>
+              <td><%= studies[i].type %></td>
               <td>
 
                 <a href="/studies/delete/<%= studies[i]._id %>"
